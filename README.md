@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Moritz!</h1>
+# Hi 👋, I'm Moritz!
 I' currently working as head of engineering at @Matchory.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radiergummi" alt="radiergummi" /> </p>
