@@ -1,5 +1,5 @@
 # Hi 👋, I'm Moritz!
-I' currently working as head of engineering at @Matchory.
+I' currently working as head of engineering @ [Matchory](https://github.com/matchory).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radiergummi" alt="radiergummi" /> </p>
 
